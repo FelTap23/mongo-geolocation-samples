@@ -1,0 +1,128 @@
+[
+	{
+		"id": "5ede9a581e78d93be8562a5c",
+		"name": "Parque metropolitano",
+		"currentDate": "2020-06-08",
+		"location": {
+			"x": -103.438628,
+			"y": 20.66664,
+			"type": "Point",
+			"coordinates": [
+				-103.438628,
+				20.66664
+			]
+		}
+	},
+	{
+		"id": "5ede9a581e78d93be8562a5d",
+		"name": "Maru Home",
+		"currentDate": "2020-06-08",
+		"location": {
+			"x": -103.430297,
+			"y": 20.654761,
+			"type": "Point",
+			"coordinates": [
+				-103.430297,
+				20.654761
+			]
+		}
+	},
+	{
+		"id": "5ede9a581e78d93be8562a5e",
+		"name": "Tianguis del sol",
+		"currentDate": "2020-06-08",
+		"location": {
+			"x": -103.43285,
+			"y": 20.651819,
+			"type": "Point",
+			"coordinates": [
+				-103.43285,
+				20.651819
+			]
+		}
+	},
+	{
+		"id": "5ede9a581e78d93be8562a5f",
+		"name": "Home",
+		"currentDate": "2020-06-08",
+		"location": {
+			"x": -103.432925,
+			"y": 20.647302,
+			"type": "Point",
+			"coordinates": [
+				-103.432925,
+				20.647302
+			]
+		}
+	},
+	{
+		"id": "5edea32d450ca805f52608d9",
+		"name": "CUCEI",
+		"currentDate": "2020-06-08",
+		"location": {
+			"x": -103.324299,
+			"y": 20.657224,
+			"type": "Point",
+			"coordinates": [
+				-103.324299,
+				20.657224
+			]
+		}
+	},
+	{
+		"id": "5edea648817bcd7393d0ab3a",
+		"name": "Chapultepec",
+		"currentDate": "2020-06-08",
+		"location": {
+			"x": -103.368759,
+			"y": 20.676558,
+			"type": "Point",
+			"coordinates": [
+				-103.368759,
+				20.676558
+			]
+		}
+	},
+	{
+		"id": "5edea801c1a9d831f0bb7eb5",
+		"name": "Chapultepec",
+		"currentDate": "2020-06-08",
+		"location": {
+			"x": -103.368759,
+			"y": 20.676558,
+			"type": "Point",
+			"coordinates": [
+				-103.368759,
+				20.676558
+			]
+		}
+	},
+	{
+		"id": "5edea858cab4f01d4d69d6fc",
+		"name": "Chapultepec",
+		"currentDate": "2020-06-08",
+		"location": {
+			"x": -103.368759,
+			"y": 20.676558,
+			"type": "Point",
+			"coordinates": [
+				-103.368759,
+				20.676558
+			]
+		}
+	},
+	{
+		"id": "5edea8ea914e365e534b3c23",
+		"name": "Chapultepec",
+		"currentDate": "2020-06-08",
+		"location": {
+			"x": -103.368759,
+			"y": 20.676558,
+			"type": "Point",
+			"coordinates": [
+				-103.368759,
+				20.676558
+			]
+		}
+	}
+]
